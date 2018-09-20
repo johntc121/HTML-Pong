@@ -1,0 +1,20 @@
+#mycanvas {
+
+	border: 1px solid white;
+	margin: 0 auto;
+	padding-bottom: 25px;
+
+}
+
+
+body
+{
+	overflow: hidden;
+	text-align: center;
+}
+
+
+
+h2{
+	font-family: Impact, Times, serif;
+}
